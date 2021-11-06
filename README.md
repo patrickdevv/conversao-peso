@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Conversão de peso" title="#Convertepeso" src="https://user-images.githubusercontent.com/93482022/139965891-e7c45771-4366-4615-9b63-d7cec0e9eb87.png" width="256" height="256" />
+    <img alt="Conversão de peso" title="#Convertepeso" src="https://user-images.githubusercontent.com/93482022/140623970-30d46865-7951-424d-9d45-12a144905ea2.PNG" width="256" height="256" />
 </h1>
 
 <h4 align="center"> 
