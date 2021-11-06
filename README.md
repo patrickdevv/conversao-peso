@@ -43,5 +43,5 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 # no terminal digitar o comando
 $ docker container run -d -p 3000:80 patrickdevv/conversaopeso:v1
 
-# O servidor inciará na porta:5000 - acesse http://localhost:3000 
+# O servidor inciará na porta:3000 - acesse http://localhost:3000 
 ```
